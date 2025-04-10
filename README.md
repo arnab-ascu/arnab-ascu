@@ -6,7 +6,7 @@ In the process of learning JavaScript, CSS and python. <br>
 I wish to become a software developer in the future though I'm not sure yet which field of development would suit me best, yet.</i></h5> 
 <br>
 <h3>One can reach me out via my gmail which is <b><i>arnabbanik06@gmail.com</i></b>
-or my Discord <i>spade_06</i></h3>
+</i></h3>
 
 <!---
 arnab-ascu/arnab-ascu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
