@@ -1,11 +1,9 @@
-<h5><i>Hello, I'm Arnab Banik, a student from Asutosh College(under university of Calcutta).<br>
-I'm studying Computer Science Honours and am currently in my first year.<br>
+<h5><i>Ho, I'm Arnab Banik, a student of National Institute of Technology, Tiruchirappalli.<br>
+I'm pursuing Master in Computer Applications (MCA).<br>
 I'm interested in programming, and enhancing my skills further and further by learning various programming languages.<br>
-Currently know a bit of C, HTML and Java. <br>
-In the process of learning JavaScript, CSS and python. <br>
-I wish to become a software developer in the future though I'm not sure yet which field of development would suit me best, yet.</i></h5> 
+Currently know how to use C, HTML, CSS Python, and Java. <br> </i></h5> 
 <br>
-<h3>One can reach me out via my gmail which is <b><i>arnabbanik06@gmail.com</i></b>
+<h3>You can reach me out through my email which is <b><i>arnabbanik06@gmail.com</i></b>
 </i></h3>
 
 <!---
